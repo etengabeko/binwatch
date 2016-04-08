@@ -1,0 +1,7 @@
+<RCC>
+  <qresource>
+    <file>icons/ledgrey.png</file>
+    <file>icons/ledred.png</file>
+    <file>icons/ledyellow.png</file>
+  </qresource>
+</RCC>

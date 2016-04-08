@@ -1,0 +1,11 @@
+Makefile
+Makefile.*
+*.o
+.o
+.ui
+.moc
+.rcc
+*.swp
+*.user
+build_dir
+
